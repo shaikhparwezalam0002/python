@@ -5,5 +5,8 @@
 # print(x+5) #can only concatenate str (not "int") to str
 
 
-x = int(input())
-print(x) #ValueError: invalid literal for int() with base 10: '12.4'
+# x = int(input())
+# print(x) #ValueError: invalid literal for int() with base 10: '12.4'
+
+print("Enter message: ", input())
+print(input("Enter message: "))
