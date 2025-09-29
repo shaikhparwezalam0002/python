@@ -6,4 +6,4 @@
 
 
 x = int(input())
-print(x)
+print(x) #ValueError: invalid literal for int() with base 10: '12.4'
