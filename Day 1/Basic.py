@@ -1,4 +1,4 @@
-print(2**3) #Exponential operator
+#print(2**3) #Exponential operator
 
 x = input()
 y = input()
