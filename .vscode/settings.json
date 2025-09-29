@@ -1,3 +1,5 @@
 {
-    "explorer.openEditors.sortOrder": "alphabetical"
+    "explorer.openEditors.sortOrder": "alphabetical",
+    "sortable-explorer.sortBy": "created",
+    "sortable-explorer.sortDirection": "desc"
 }
